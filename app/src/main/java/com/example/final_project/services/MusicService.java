@@ -14,7 +14,7 @@ public class MusicService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-        mediaPlayer = MediaPlayer.create(this, R.raw.music); // Замените your_audio_file на имя вашего аудиофайла
+        mediaPlayer = MediaPlayer.create(this, R.raw.music);
         mediaPlayer.setLooping(true); // Зациклить музыку
     }
 

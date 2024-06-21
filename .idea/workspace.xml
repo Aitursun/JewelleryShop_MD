@@ -30,6 +30,11 @@
           <theme>@style/Theme.Final_Project</theme>
         </config>
       </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_payment_success.xml">
+        <config>
+          <theme>@style/Theme.Final_Project</theme>
+        </config>
+      </layout>
       <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_product_detail.xml">
         <config>
           <theme>@style/Theme.Final_Project.Actionbar</theme>
@@ -85,7 +90,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Les\.android\avd\Pixel_XL_API_26_2.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[RZ8M73ND2DT]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -106,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -140,12 +145,15 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Les/AndroidStudioProjects/JewelleryShop_MD-main",
+    "last_directory_selection": "C:/Users/Les/AndroidStudioProjects/JewelleryShop_MD-main/app/src/main/res/drawable",
+    "last_opened_file_path": "C:/Users/Les/AndroidStudioProjects/JewelleryShop_MD-main/app/src/main/res/drawable",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\res\drawable" />
+      <recent name="C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\res\raw" />
       <recent name="C:\Users\Les\AndroidStudioProjects\AndroidStudio_Ecommerce-main\app\src\main\res\raw" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -154,7 +162,7 @@
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="Final_Project.app.main" />
+      <module name="Jewellery_Shop.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />

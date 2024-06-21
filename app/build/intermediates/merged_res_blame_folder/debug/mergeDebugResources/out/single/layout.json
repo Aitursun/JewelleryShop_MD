@@ -32,16 +32,20 @@
         "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-main-66:\\layout\\activity_search.xml"
     },
     {
-        "merged": "com.example.final_project.app-mergeDebugResources-63:/layout/activity_splash_screen.xml",
-        "source": "com.example.final_project.app-main-66:/layout/activity_splash_screen.xml"
+        "merged": "com.example.final_project.app-mergeDebugResources-63:/layout/activity_payment_gateway.xml",
+        "source": "com.example.final_project.app-main-66:/layout/activity_payment_gateway.xml"
     },
     {
-        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-mergeDebugResources-63:\\layout\\activity_splash_screen.xml",
-        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-main-66:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-mergeDebugResources-63:\\layout\\activity_payment_success.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-main-66:\\layout\\activity_payment_success.xml"
     },
     {
         "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-mergeDebugResources-63:\\layout\\activity_payment_gateway.xml",
         "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-main-66:\\layout\\activity_payment_gateway.xml"
+    },
+    {
+        "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-mergeDebugResources-63:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-main-66:\\layout\\activity_splash_screen.xml"
     },
     {
         "merged": "C:\\Users\\Les\\.gradle\\daemon\\8.4\\com.example.final_project.app-mergeDebugResources-63:\\layout\\item_categories.xml",

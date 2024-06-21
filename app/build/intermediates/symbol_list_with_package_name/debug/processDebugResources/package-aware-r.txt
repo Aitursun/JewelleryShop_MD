@@ -2855,6 +2855,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable background
 drawable bottom_top_shadow
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -2920,6 +2921,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable icon
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2961,6 +2963,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pay
 drawable placeholder
 drawable round_corners
 drawable stripe_3ds2_ic_amex
@@ -3178,6 +3181,7 @@ id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
 id automatic
+id background_image
 id bank_list
 id barrier
 id baseline
@@ -3579,6 +3583,7 @@ id notification_main_column_container
 id off
 id on
 id onInterceptTouchReturnSwipe
+id order_image
 id outline
 id outward
 id overshoot
@@ -3779,6 +3784,7 @@ id textinput_helper_text
 id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
+id thank_you
 id time
 id title
 id titleDividerNoCustom
@@ -3954,6 +3960,7 @@ layout activity_checkout
 layout activity_main
 layout activity_payment_gateway
 layout activity_payment_sheet
+layout activity_payment_success
 layout activity_product_detail
 layout activity_search
 layout activity_splash_screen
@@ -4138,6 +4145,7 @@ raw music
 raw offers
 raw products
 raw splash
+raw success
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

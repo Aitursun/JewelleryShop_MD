@@ -14,15 +14,19 @@ color red
 color teal_200
 color teal_700
 color white
+drawable background
 drawable edittext_bg
 drawable ic_cart
 drawable ic_folder
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable icon
+drawable pay
 drawable placeholder
 font roboto_bold
 id addToCartBtn
 id addressBox
+id background_image
 id bottomPrice
 id cardView
 id carousel
@@ -42,6 +46,7 @@ id lottie_animation_view
 id minusBtn
 id name
 id nameBox
+id order_image
 id payment
 id phoneBox
 id playButton
@@ -65,6 +70,7 @@ id textView2
 id textView5
 id textView6
 id text_progress_layout
+id thank_you
 id total
 id view
 id view2
@@ -74,6 +80,7 @@ layout activity_category
 layout activity_checkout
 layout activity_main
 layout activity_payment_gateway
+layout activity_payment_success
 layout activity_product_detail
 layout activity_search
 layout activity_splash_screen
@@ -90,6 +97,7 @@ raw music
 raw offers
 raw products
 raw splash
+raw success
 string app_name
 style Theme.Final_Project
 style Theme.Final_Project.Actionbar

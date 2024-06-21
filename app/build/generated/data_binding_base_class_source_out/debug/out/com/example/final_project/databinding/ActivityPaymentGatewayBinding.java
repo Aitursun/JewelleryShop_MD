@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -20,10 +21,15 @@ public final class ActivityPaymentGatewayBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final ImageView orderImage;
+
+  @NonNull
   public final Button payment;
 
-  private ActivityPaymentGatewayBinding(@NonNull LinearLayout rootView, @NonNull Button payment) {
+  private ActivityPaymentGatewayBinding(@NonNull LinearLayout rootView,
+      @NonNull ImageView orderImage, @NonNull Button payment) {
     this.rootView = rootView;
+    this.orderImage = orderImage;
     this.payment = payment;
   }
 
@@ -54,13 +60,19 @@ public final class ActivityPaymentGatewayBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.order_image;
+      ImageView orderImage = ViewBindings.findChildViewById(rootView, id);
+      if (orderImage == null) {
+        break missingId;
+      }
+
       id = R.id.payment;
       Button payment = ViewBindings.findChildViewById(rootView, id);
       if (payment == null) {
         break missingId;
       }
 
-      return new ActivityPaymentGatewayBinding((LinearLayout) rootView, payment);
+      return new ActivityPaymentGatewayBinding((LinearLayout) rootView, orderImage, payment);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

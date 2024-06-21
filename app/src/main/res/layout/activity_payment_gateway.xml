@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="20dp"
     android:background="#FFFFFF">
 
-    <!-- Checkout Button -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,7 +15,7 @@
         android:textAlignment="center"
         android:textColor="#004282"
         android:textSize="40sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <Button
         android:id="@+id/payment"
@@ -27,8 +27,13 @@
         android:textAllCaps="false"
         android:textSize="18sp" />
 
+    <ImageView
+        android:id="@+id/order_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="200dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pay" />
 
 </LinearLayout>
-
-
-

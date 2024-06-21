@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-71:12
-INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-71:12
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:1-77:12
 MERGED from [org.imaginativeworld.whynotimagecarousel:whynotimagecarousel:2.1.0] C:\Users\Les\.gradle\caches\transforms-3\959c38f3ca82e05a29d0f93965f55b75\transformed\whynotimagecarousel-2.1.0-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.stripe:stripe-android:17.2.0] C:\Users\Les\.gradle\caches\transforms-3\b500752c1545320eda2c65f2bff732b7\transformed\stripe-android-17.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.stripe:paymentsheet:17.2.0] C:\Users\Les\.gradle\caches\transforms-3\ad84be7af33d637d8a6038c7d134db03\transformed\paymentsheet-17.2.0\AndroidManifest.xml:2:1-20:12
@@ -102,6 +102,7 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Les\.gradle\caches\
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Les\.gradle\caches\transforms-3\015d15adb79be2e09251a12ec4f2ad42\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.compose.ui:ui-util:1.0.2] C:\Users\Les\.gradle\caches\transforms-3\7880e5c9827bf967947728dac5016b99\transformed\ui-util-1.0.2\AndroidManifest.xml:17:1-24:12
 	package
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:4:5-40
 		INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml
@@ -112,24 +113,24 @@ MERGED from [androidx.compose.ui:ui-util:1.0.2] C:\Users\Les\.gradle\caches\tran
 	xmlns:android
 		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.POST_NOTIFICATIONS
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:5:5-76
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:5:22-74
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:6:22-74
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:7:5-67
 MERGED from [org.imaginativeworld.whynotimagecarousel:whynotimagecarousel:2.1.0] C:\Users\Les\.gradle\caches\transforms-3\959c38f3ca82e05a29d0f93965f55b75\transformed\whynotimagecarousel-2.1.0-debug\AndroidManifest.xml:9:5-67
 MERGED from [org.imaginativeworld.whynotimagecarousel:whynotimagecarousel:2.1.0] C:\Users\Les\.gradle\caches\transforms-3\959c38f3ca82e05a29d0f93965f55b75\transformed\whynotimagecarousel-2.1.0-debug\AndroidManifest.xml:9:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Les\.gradle\caches\transforms-3\e8434183d5e907fc5360927070611b2c\transformed\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Les\.gradle\caches\transforms-3\e8434183d5e907fc5360927070611b2c\transformed\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:9:5-69:19
-INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:9:5-69:19
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:10:5-75:19
+INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:10:5-75:19
 MERGED from [com.stripe:paymentsheet:17.2.0] C:\Users\Les\.gradle\caches\transforms-3\ad84be7af33d637d8a6038c7d134db03\transformed\paymentsheet-17.2.0\AndroidManifest.xml:9:5-18:19
 MERGED from [com.stripe:paymentsheet:17.2.0] C:\Users\Les\.gradle\caches\transforms-3\ad84be7af33d637d8a6038c7d134db03\transformed\paymentsheet-17.2.0\AndroidManifest.xml:9:5-18:19
 MERGED from [com.stripe:payments-core:17.2.0] C:\Users\Les\.gradle\caches\transforms-3\d99abe142f0c3d6fb8c97bd2c1f40b41\transformed\payments-core-17.2.0\AndroidManifest.xml:16:5-81:19
@@ -177,103 +178,111 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] C:\Users\Les\.gradle\c
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Les\.gradle\caches\transforms-3\7c8b1b0f4b04b671f077e91b30a81f0b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:12:9-41
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:13:9-41
 	android:roundIcon
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:13:9-54
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:14:9-43
 	android:icon
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:12:9-38
 	android:allowBackup
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:15:9-51
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:16:9-51
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:16:9-44
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:17:9-44
 activity#com.example.final_project.activities.SplashScreenActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:18:9-27:20
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:19:9-28:20
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:21:13-36
 	tools:ignore
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:19:13-60
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:20:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:23:13-26:29
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:24:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.example.final_project.activities.PaymentGateway
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:29:9-31:40
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:31:13-37
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:30:13-54
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:31:13-54
 activity#com.example.final_project.activities.SearchActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:32:9-35:68
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:33:9-36:68
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:35:13-37
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:35:13-65
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:36:13-65
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:33:13-54
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:34:13-54
 activity#com.example.final_project.activities.CategoryActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:36:9-39:68
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:37:9-40:68
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:38:13-37
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:39:13-37
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:39:13-65
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:40:13-65
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:37:13-56
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:38:13-56
 activity#com.example.final_project.activities.CheckoutActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:40:9-44:68
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:41:9-45:68
 	android:label
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:44:13-37
+	android:exported
 		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:43:13-37
-	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:42:13-37
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:44:13-65
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:45:13-65
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:41:13-56
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:42:13-56
 activity#com.example.final_project.activities.CartActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:45:9-49:68
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:46:9-50:68
 	android:label
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:48:13-42
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:49:13-42
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:47:13-37
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:48:13-37
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:49:13-65
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:50:13-65
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:46:13-52
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:47:13-52
 activity#com.example.final_project.activities.ProductDetailActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:50:9-53:68
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:51:9-54:68
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:52:13-37
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:53:13-37
 	android:theme
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:53:13-65
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:54:13-65
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:51:13-61
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:52:13-61
 activity#com.example.final_project.activities.MainActivity
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:54:9-62:20
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:55:9-63:20
 	android:exported
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:56:13-36
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:57:13-36
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:55:13-52
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:56:13-52
+activity#com.example.final_project.activities.PaymentSuccessActivity
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:65:9-68:58
+	android:exported
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:67:13-37
+	android:theme
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:68:13-55
+	android:name
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:66:13-62
 service#com.example.final_project.services.MusicService
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:64:9-58
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:70:9-58
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:64:18-55
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:70:18-55
 meta-data#preloaded_fonts
-ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:66:9-68:57
+ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:72:9-74:57
 	android:resource
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:68:13-54
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:74:13-54
 	android:name
-		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:67:13-43
+		ADDED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml:73:13-43
 uses-sdk
 INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Les\AndroidStudioProjects\JewelleryShop_MD-main\app\src\main\AndroidManifest.xml

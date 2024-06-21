@@ -2,8 +2,8 @@
 <resources xmlns:ns1="http://schemas.android.com/tools">
     <style name="Theme.Final_Project" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
-        <item name="colorPrimary">@color/purple_200</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorPrimary">#80A1C1</item>
+        <item name="colorPrimaryVariant">#004281</item>
         <item name="colorOnPrimary">@color/black</item>
         
         <item name="colorSecondary">@color/teal_200</item>

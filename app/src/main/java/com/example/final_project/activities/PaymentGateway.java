@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Bundle;
@@ -110,6 +111,8 @@ public class PaymentGateway extends AppCompatActivity {
             Toast.makeText(this, "Payment Success", Toast.LENGTH_SHORT).show();
             BuildNotification();
             cart.clearCart();
+            Intent intent = new Intent(this, PaymentSuccessActivity.class);
+            startActivity(intent);
             finish();
         }
     }
@@ -129,7 +132,7 @@ public class PaymentGateway extends AppCompatActivity {
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this, CHANNEL_ID)
                 .setSmallIcon(R.drawable.ic_launcher_foreground)
                 .setContentTitle("Payment Received")
-                .setContentText("Thank you for your Order!")
+                .setContentText("Thank you for your purchase!")
                 .setPriority(NotificationCompat.PRIORITY_DEFAULT);
 
         NotificationManagerCompat notificationManagerCompat = NotificationManagerCompat.from(this);

@@ -32,7 +32,7 @@
         android:id="@+id/bottomPrice"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="#80A1C1"
+        android:background="#4CAF50"
         android:orientation="horizontal"
         android:padding="15dp"
         app:layout_constraintBottom_toTopOf="@+id/continueBtn"

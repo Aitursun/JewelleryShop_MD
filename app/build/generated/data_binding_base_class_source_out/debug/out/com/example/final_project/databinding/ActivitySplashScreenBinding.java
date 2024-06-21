@@ -4,6 +4,7 @@ package com.example.final_project.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -21,14 +22,19 @@ public final class ActivitySplashScreenBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final ImageView backgroundImage;
+
+  @NonNull
   public final LottieAnimationView lottieAnimationView;
 
   @NonNull
   public final LinearLayout textProgressLayout;
 
   private ActivitySplashScreenBinding(@NonNull ConstraintLayout rootView,
-      @NonNull LottieAnimationView lottieAnimationView, @NonNull LinearLayout textProgressLayout) {
+      @NonNull ImageView backgroundImage, @NonNull LottieAnimationView lottieAnimationView,
+      @NonNull LinearLayout textProgressLayout) {
     this.rootView = rootView;
+    this.backgroundImage = backgroundImage;
     this.lottieAnimationView = lottieAnimationView;
     this.textProgressLayout = textProgressLayout;
   }
@@ -60,6 +66,12 @@ public final class ActivitySplashScreenBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.background_image;
+      ImageView backgroundImage = ViewBindings.findChildViewById(rootView, id);
+      if (backgroundImage == null) {
+        break missingId;
+      }
+
       id = R.id.lottie_animation_view;
       LottieAnimationView lottieAnimationView = ViewBindings.findChildViewById(rootView, id);
       if (lottieAnimationView == null) {
@@ -72,8 +84,8 @@ public final class ActivitySplashScreenBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivitySplashScreenBinding((ConstraintLayout) rootView, lottieAnimationView,
-          textProgressLayout);
+      return new ActivitySplashScreenBinding((ConstraintLayout) rootView, backgroundImage,
+          lottieAnimationView, textProgressLayout);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
